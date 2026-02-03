@@ -1,0 +1,250 @@
+🎂 GUIDE DE CONFIGURATION - SITE D'ANNIVERSAIRE 🎂
+===================================================
+Pour Mounaim Saufite - Futur Ingénieur Civil 🏗️
+Créé avec 💙 par Siham
+
+CE QU'IL FAUT FAIRE :
+=====================
+
+✅ ÉTAPE 1 : VÉRIFIER LES PHOTOS (Optionnel)
+   -----------------------------------------
+   Le site contient déjà 6 photos générées par IA !
+   Thème : Siham & Mounaim - Ingénierie/Amitié
+   
+   Options :
+   A) GARDER les photos IA (elles sont jolies et thématiques !)
+   B) REMPLACER par vos propres photos :
+      - Mettez 6 photos dans le dossier "images"
+      - Nommez-les : photo1.jpg, photo2.jpg, photo3.jpg, etc.
+      - Format carré recommandé (800x800 pixels)
+
+✅ ÉTAPE 2 : AJOUTER LA MUSIQUE (Optionnel mais recommandé)
+   --------------------------------------------------------
+   📖 LISEZ LE FICHIER : "GUIDE-MUSIQUE.txt"
+   
+   Il contient :
+   - Liens pour télécharger de la musique GRATUITE
+   - Suggestions de musique pour ingénieur
+   - Instructions pas à pas
+   
+   Résumé rapide :
+   1. Allez sur https://pixabay.com/music/
+   2. Cherchez "birthday celebration"
+   3. Téléchargez un fichier MP3
+   4. Renommez-le : birthday-song.mp3
+   5. Mettez-le dans le dossier "music"
+   
+   ⚠️ La musique est OPTIONNELLE - le site fonctionne sans !
+
+✅ ÉTAPE 3 : PERSONNALISER LE TEXTE
+   ---------------------------------
+   Ouvrez "index.html" dans un éditeur de texte
+   (Bloc-notes, Notepad++, VS Code, etc.)
+   
+   Cherchez les sections marquées :
+   <!-- EASY TO EDIT -->
+   
+   À modifier :
+   
+   📝 Ligne ~50 : Le nom (déjà "MOUNAIM SAUFITE")
+   📝 Ligne ~52 : Le sous-titre (déjà thème ingénieur)
+   📝 Ligne ~75-103 : Message d'anniversaire (en français !)
+   📝 Ligne ~100 : Votre nom dans signature (déjà "Siham")
+   📝 Ligne ~188 : Message final (en français !)
+   📝 Ligne ~111-165 : Légendes photos (en français !)
+
+✅ ÉTAPE 4 : MODIFIER LES COULEURS (Optionnel)
+   --------------------------------------------
+   Ouvrez "style.css" dans un éditeur de texte
+   
+   Ligne ~10-12 : Couleurs principales
+   
+   ACTUEL (Thème Ingénieur) :
+   --primary-color: #2c5f8d;    (Bleu professionnel)
+   --secondary-color: #1a3a52;  (Bleu marine)
+   --accent-color: #f39c12;     (Orange construction)
+   
+   Si vous voulez d'autres couleurs :
+   - Utilisez un "color picker" en ligne
+   - Changez les codes #... 
+   - Sauvegardez
+
+✅ ÉTAPE 5 : TESTER LE SITE
+   -------------------------
+   1. Double-cliquez sur "index.html"
+   2. Il s'ouvre dans votre navigateur
+   3. Vérifications :
+      ☐ Le nom s'affiche correctement
+      ☐ Les photos apparaissent
+      ☐ Le message est bon
+      ☐ Les animations fonctionnent
+      ☐ Le bouton musique est là
+      ☐ Ça fonctionne sur mobile (testez !)
+
+✅ ÉTAPE 6 : PARTAGER LE SITE
+   ---------------------------
+   
+   OPTION A - Fichiers ZIP :
+   1. Sélectionnez TOUS les fichiers
+   2. Clic droit → "Compresser" ou "Envoyer vers ZIP"
+   3. Envoyez le fichier .zip par email/WhatsApp
+   4. La personne dézippe et ouvre index.html
+   
+   OPTION B - En ligne (GRATUIT) :
+   1. Allez sur netlify.com
+   2. Glissez-déposez TOUT le dossier
+   3. Vous obtenez une URL
+   4. Partagez l'URL !
+   
+   OPTION C - GitHub Pages :
+   1. Créez un compte sur github.com
+   2. Créez un nouveau repository
+   3. Uploadez tous les fichiers
+   4. Activez GitHub Pages
+   5. URL : votrenom.github.io/birthday-mounaim
+
+
+CHECKLIST RAPIDE :
+==================
+☐ Photos vérifiées (IA ou personnelles)
+☐ Musique ajoutée dans music/ (optionnel)
+☐ Nom vérifié dans HTML
+☐ Message d'anniversaire personnalisé
+☐ Signature avec votre nom (Siham)
+☐ Message final en français
+☐ Testé dans le navigateur
+☐ Testé sur mobile
+☐ Prêt à partager !
+
+
+THÈME ACTUEL : INGÉNIEUR CIVIL
+===============================
+Le site a été personnalisé pour un FUTUR INGÉNIEUR :
+
+🎨 Design :
+- Couleurs : Bleu professionnel + Orange construction
+- Motif de grille (comme des plans)
+- Polices modernes et audacieuses
+- Style masculin et professionnel
+
+📝 Messages :
+- En FRANÇAIS
+- Thème ingénierie/construction
+- Motivant et inspirant
+- Célèbre l'ambition et le succès
+
+📸 Photos :
+- 6 images générées par IA
+- Thème : Amitié + Études + Ingénierie
+- Légendes en français
+- Vous pouvez les remplacer !
+
+🎵 Musique :
+- Bouton de lecture en haut à droite
+- Consultez GUIDE-MUSIQUE.txt
+- Complètement optionnel
+
+
+PROBLÈMES COURANTS :
+====================
+
+❌ "Les images ne s'affichent pas"
+   ✅ Vérifiez que les fichiers sont dans images/
+   ✅ Les noms doivent correspondre exactement
+   ✅ Si vous gardez les photos IA, elles devraient marcher !
+
+❌ "La musique ne joue pas"
+   ✅ Lisez GUIDE-MUSIQUE.txt
+   ✅ Vérifiez que le fichier est dans music/
+   ✅ Cliquez sur le bouton play
+   ✅ La musique est optionnelle !
+
+❌ "Comment je change le texte ?"
+   ✅ Ouvrez index.html dans Bloc-notes
+   ✅ Cherchez <!-- EASY TO EDIT -->
+   ✅ Changez le texte entre les balises
+   ✅ Sauvegardez (Ctrl+S)
+
+❌ "Ça ne fonctionne pas sur mobile"
+   ✅ C'est responsive, ça devrait marcher !
+   ✅ Essayez un autre navigateur
+   ✅ Rafraîchissez la page
+
+❌ "Comment je change les couleurs ?"
+   ✅ Ouvrez style.css
+   ✅ Ligne 10-12 : changez les #...
+   ✅ Utilisez un color picker en ligne
+
+
+FICHIERS IMPORTANTS :
+======================
+
+📄 index.html        → La page web principale
+📄 style.css         → Tous les styles et couleurs
+📄 script.js         → Animations et musique
+📄 README-FR.md      → Documentation complète en français
+📄 GUIDE-MUSIQUE.txt → Guide musique détaillé
+📁 images/           → Vos photos ici (6 photos IA déjà là)
+📁 music/            → Votre musique ici
+
+
+RESSOURCES UTILES :
+===================
+
+🎵 Musique gratuite :
+   - https://pixabay.com/music/
+   - https://www.youtube.com/audiolibrary
+   - https://www.bensound.com/
+
+🎨 Générateurs de couleurs :
+   - https://coolors.co/
+   - https://colorhunt.co/
+   - https://www.canva.com/colors/color-wheel/
+
+📸 Générer des photos IA :
+   - https://www.bing.com/create (DALL-E gratuit)
+   - https://leonardo.ai/ (gratuit)
+   - https://playground.ai/ (gratuit)
+
+🌐 Hébergement gratuit :
+   - https://netlify.com/ (le plus facile)
+   - https://vercel.com/
+   - https://pages.github.com/
+
+
+CONSEILS PRO :
+==============
+
+💡 Testez TOUT avant de partager
+💡 Faites une sauvegarde des fichiers originaux
+💡 Prenez des captures d'écran pour montrer
+💡 Envoyez le lien quelques heures AVANT minuit
+💡 Ajoutez un message personnel avec le lien
+
+
+C'EST TOUT ! 🎉
+===============
+
+Vous avez un magnifique site d'anniversaire professionnel,
+thématique ingénierie, personnalisé pour Mounaim !
+
+Le site célèbre :
+✨ Son ambition de devenir ingénieur civil
+✨ Votre amitié (Siham & Mounaim)
+✨ Son jour spécial
+✨ Son avenir brillant
+
+AMUSEZ-VOUS ! 💙
+Ce site montre que vous vous souciez vraiment.
+C'est un cadeau réfléchi et unique.
+
+Joyeux Anniversaire à Mounaim ! 🎂🏗️
+
+De la part de Siham 💙
+
+
+--------------------------------------------------
+Besoin d'aide ? Consultez README-FR.md
+Questions sur la musique ? Lisez GUIDE-MUSIQUE.txt
+--------------------------------------------------
+
